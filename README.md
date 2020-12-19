@@ -9,6 +9,7 @@ Run
 ----
 Same as the original Gem5 simulator.
 
-
+Notes
+----
 More detials will be updated after Our paper is completed. <br>
 Selective Delay: Modifying the Execution Logic of Sensitive Instructions to Defeat Cache Side-Channel Attacks.
