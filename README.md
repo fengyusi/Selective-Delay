@@ -3,7 +3,7 @@ the execution time of load instructions after RDTSC or RDTSCP instructions to a 
 
 Modify Ranges
 ----
-We mainly modify the "O3" pipeline to realize our design.
+We mainly modified the "O3" pipeline to realize our design.
 
 Run
 ----
